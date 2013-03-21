@@ -1,0 +1,1 @@
+([:dependencies ([ring-server "0.2.8"] [org.clojure/clojure "1.5.1"] [compojure/compojure "1.2.1-SNAPSHOT"] [ring/ring "1.1.0"])])
